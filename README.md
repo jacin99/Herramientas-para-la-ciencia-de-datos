@@ -1,3 +1,1 @@
-# Prueba
-# Aqui haciendo unas pruebecitas para el curso de courser
-print("Mazo tronco análisis de datos tron")
+# Aqui iré subiendo las actividades del curso
