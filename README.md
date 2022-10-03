@@ -1,1 +1,2 @@
-# Aqui iré subiendo las actividades del curso
+# Nota informativa:
+Aqui iré subiendo las actividades del curso
